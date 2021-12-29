@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/yoshigallery/static/css/main.073c9b0a.css",
+    "main.css": "/yoshigallery/static/css/main.3aca4026.css",
     "main.js": "/yoshigallery/static/js/main.c63fae38.js",
     "static/js/787.d4ebc783.chunk.js": "/yoshigallery/static/js/787.d4ebc783.chunk.js",
     "static/media/logo.svg": "/yoshigallery/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/yoshigallery/index.html",
-    "main.073c9b0a.css.map": "/yoshigallery/static/css/main.073c9b0a.css.map",
+    "main.3aca4026.css.map": "/yoshigallery/static/css/main.3aca4026.css.map",
     "main.c63fae38.js.map": "/yoshigallery/static/js/main.c63fae38.js.map",
     "787.d4ebc783.chunk.js.map": "/yoshigallery/static/js/787.d4ebc783.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
+    "static/css/main.3aca4026.css",
     "static/js/main.c63fae38.js"
   ]
 }
